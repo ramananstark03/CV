@@ -1,0 +1,128 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+h2{
+  font-size: 2rem;
+  font-family: hind siliguri, sans-serif;
+  color: #219F94;
+}
+h1{
+  font-size: 4.25rem;
+  font-family: encode sans sc, sans-serif;
+}
+a{
+  font-family: hind siliguri, sans-serif;
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+   color: #EAF6F6;
+}
+.line{
+  border-color: purple;
+}
+.name{
+  padding-top: 100px;
+}
+hr{
+  border: dotted #A3E4DB 6px;
+  border-bottom: none;
+  width:4%;
+}
+p{
+  font-family: hind siliguri, sans-serif;
+  color: #219F94;
+  font-size: 20px;
+  font-weight: normal;
+  margin: auto;
+}
+.top-container{
+padding: 50px 50px;
+background-color: #A3E4DB;
+}
+.name{
+  margin-top: auto;
+}
+.hello{
+  padding-bottom: 100px;
+  width: 35%;
+  margin: auto;
+  padding-top: 50px;
+}
+.skills{
+  text-align: left;
+  margin-left: 190px;
+}
+.middle-container{
+padding: 50px 50px;
+background-color: #EAF6F6;
+}
+.skillrow{
+  padding: 50px 100px 50px 100px;
+  text-align: left;
+  margin:50px auto 50px auto;
+  width: 50%;
+}
+.skill1{
+  margin-bottom: 150px;
+}
+
+.skill-img{
+  float: left;
+  margin-right: 60px;
+}
+.angela-img{
+  float: right;
+  margin-left: 60px;
+}
+
+.bottom-container{
+background-color: #A3E4DB;
+padding: 20px 50px;
+}
+.welcome{
+  position: relative;
+  bottom: 50px;
+  width: 30%;
+}
+.contact-me{
+  margin: 100px auto auto auto;
+  padding-bottom: 50px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 1rem;
+  margin-top: 10px;
+}
+.touch{
+  margin-bottom: 50px;
+  width: 30%;
+}
+.btn {
+  background: #A3E4DB;
+  background-image: -webkit-linear-gradient(top, #A3E4DB, #66BFBF);
+  background-image: -moz-linear-gradient(top, #A3E4DB, #66BFBF);
+  background-image: -ms-linear-gradient(top, #A3E4DB, #66BFBF);
+  background-image: -o-linear-gradient(top, #A3E4DB, #66BFBF);
+  background-image: linear-gradient(to bottom, #A3E4DB, #66BFBF);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: hind siliguri, sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #72a19a);
+  background-image: -moz-linear-gradient(top, #66BFBF, #72a19a);
+  background-image: -ms-linear-gradient(top, #66BFBF, #72a19a);
+  background-image: -o-linear-gradient(top, #66BFBF, #72a19a);
+  background-image: linear-gradient(to bottom, #66BFBF, #72a19a);
+  text-decoration: none;
+}
